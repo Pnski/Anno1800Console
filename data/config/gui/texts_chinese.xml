@@ -1,0 +1,28 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>8855908</GUID>
+      <Text>打开控制台窗口</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--zh-Hans: Open Console Window-->
+    </Text>
+    <Text>
+      <GUID>8855909</GUID>
+      <Text>重新加载模组</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--zh-Hans: Reload Mods-->
+    </Text>
+    <Text>
+      <GUID>1600000047</GUID>
+      <Text>基准测试：ON</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--zh-Hans: Benchmark: ON-->
+    </Text>
+    <Text>
+      <GUID>1600000048</GUID>
+      <Text>基准：OFF</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--zh-Hans: Benchmark: OFF-->
+    </Text>
+  </ModOp>
+</ModOps>

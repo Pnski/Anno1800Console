@@ -1,0 +1,28 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>8855908</GUID>
+      <Text>打開主控台視窗</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--zh-Hant: Open Console Window-->
+    </Text>
+    <Text>
+      <GUID>8855909</GUID>
+      <Text>重新載入模組</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--zh-Hant: Reload Mods-->
+    </Text>
+    <Text>
+      <GUID>1600000047</GUID>
+      <Text>基準測試：ON</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--zh-Hant: Benchmark: ON-->
+    </Text>
+    <Text>
+      <GUID>1600000048</GUID>
+      <Text>基準：OFF</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--zh-Hant: Benchmark: OFF-->
+    </Text>
+  </ModOp>
+</ModOps>

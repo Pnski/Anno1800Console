@@ -1,0 +1,28 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>8855908</GUID>
+      <Text>コンソールウィンドウを開く</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--ja: Open Console Window-->
+    </Text>
+    <Text>
+      <GUID>8855909</GUID>
+      <Text>改造パーツのリロード</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--ja: Reload Mods-->
+    </Text>
+    <Text>
+      <GUID>1600000047</GUID>
+      <Text>ベンチマーク: オン</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--ja: Benchmark: ON-->
+    </Text>
+    <Text>
+      <GUID>1600000048</GUID>
+      <Text>ベンチマーク:オフ</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--ja: Benchmark: OFF-->
+    </Text>
+  </ModOp>
+</ModOps>

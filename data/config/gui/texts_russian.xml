@@ -1,0 +1,28 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>8855908</GUID>
+      <Text>Открыть окно консоли</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--ru: Open Console Window-->
+    </Text>
+    <Text>
+      <GUID>8855909</GUID>
+      <Text>Моды для перезагрузки</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--ru: Reload Mods-->
+    </Text>
+    <Text>
+      <GUID>1600000047</GUID>
+      <Text>Бенчмарк: ВКЛ</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--ru: Benchmark: ON-->
+    </Text>
+    <Text>
+      <GUID>1600000048</GUID>
+      <Text>Бенчмарк: ВЫКЛ</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--ru: Benchmark: OFF-->
+    </Text>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,50 @@
+{
+	"Version": "1.0.5",
+	"ModID": "DevtoolConsole",
+	"IncompatibleIds": null,
+	"ModDependencies": null,
+	"Category": {
+		"Chinese": "开发工具",
+		"English": "Devtool",
+		"French": "Outil de développement",
+		"German": "Devtool",
+		"Italian": "Strumento di sviluppo",
+		"Japanese": "開発ツール",
+		"Korean": "데브툴",
+		"Polish": "Dodatek",
+		"Russian": "Инструмент разработчика",
+		"Spanish": "Herramienta de desarrollo",
+		"Taiwanese": "開發工具"
+	},
+	"ModName": {
+		"Chinese": "安慰",
+		"English": "Console",
+		"French": "Consoler",
+		"German": "Konsole",
+		"Italian": "Confortare",
+		"Japanese": "慰める",
+		"Korean": "콘솔",
+		"Polish": "Konsola",
+		"Russian": "Консоль",
+		"Spanish": "Consola",
+		"Taiwanese": "安慰"
+	},
+	"Description": {
+		"Chinese": "添加一个用于打开游戏控制台的热键（标准：Shift+F1），以及一个用于重新加载模组的热键（标准：Shift+F3）、基准测试开启 （Shift+F4）、基准测试关闭（Shift+F5）",
+		"English": "Adds a Hotkey to open the game Console (Standard: Shift+F1), and one for reloading Mods (Standard: Shift+F3), Benchmark On (Shift+F4), Benchmark OFF(Shift+F5)",
+		"French": "Ajoute un raccourci clavier pour ouvrir la console de jeu (Standard : Maj+F1) et un pour recharger les mods (Standard : Maj+F3), Benchmark On (Maj+F4), Benchmark OFF (Maj+F5)",
+		"German": "Fügt einen Hotkey zum Öffnen der Spielkonsole hinzu (Standard: Umschalt+F1) und einen zum Nachladen von Mods (Standard: Umschalt+F3), Benchmark Ein (Umschalt+F4), Benchmark AUS (Umschalt+F5)",
+		"Italian": "Aggiunge un tasto di scelta rapida per aprire la console di gioco (Standard: Maiusc+F1) e uno per ricaricare le mod (Standard: Maiusc+F3), Benchmark attivato (Maiusc+F4), Benchmark disattivato (Maiusc+F5)",
+		"Japanese": "ゲームコンソールを開くためのホットキー(標準:Shift+F1)、MODをリロードするためのホットキー(標準:Shift+F3)、ベンチマークオン(Shift+F4)、ベンチマークオフ(Shift+F5)を追加",
+		"Korean": "게임 콘솔을 여는 단축키(표준: Shift+F1), 모드 재장전용 단축키(표준: Shift+F3), 벤치마크 켜기(Shift+F4), 벤치마크 끄기(Shift+F5)를 추가합니다.",
+		"Polish": "Dodaje skrót klawiszowy do otwierania konsoli gry (standardowy: Shift+F1) oraz do ponownego wczytywania modów (standardowy: Shift+F3), włączony test porównawczy (Shift+F4), wyłączony test porównawczy (Shift+F5)",
+		"Russian": "Добавляет горячую клавишу для открытия игровой консоли (стандартная: Shift+F1) и одну для перезагрузки модификаций (стандартная: Shift+F3), Benchmark On (Shift+F4), Benchmark OFF (Shift+F5)",
+		"Spanish": "Agrega una tecla de acceso rápido para abrir la consola del juego (Estándar: Mayús + F1) y otra para recargar mods (Estándar: Mayús + F3), Punto de referencia activado (Mayús + F4), Punto de referencia desactivado (Mayús + F5)",
+		"Taiwanese": "添加一個用於打開遊戲主控台的熱鍵（標準：Shift+F1），以及一個用於重新載入模組的熱鍵（標準：Shift+F3）、基準測試開啟 （Shift+F4）、基準測試關閉（Shift+F5）"
+	},
+	"KnownIssues": null,
+	"DLCDependencies": null,
+	"CreatorName": "Taubenangriff, Pnski",
+	"CreatorContact": "https://mod.io/g/anno-1800/m/console",
+	"ModioResourceID": null
+}

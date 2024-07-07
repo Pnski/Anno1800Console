@@ -1,0 +1,28 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>8855908</GUID>
+      <Text>콘솔 창 열기</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--ko: Open Console Window-->
+    </Text>
+    <Text>
+      <GUID>8855909</GUID>
+      <Text>개조 부품 재장전</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--ko: Reload Mods-->
+    </Text>
+    <Text>
+      <GUID>1600000047</GUID>
+      <Text>벤치마크: ON</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--ko: Benchmark: ON-->
+    </Text>
+    <Text>
+      <GUID>1600000048</GUID>
+      <Text>벤치마크: 꺼짐</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--ko: Benchmark: OFF-->
+    </Text>
+  </ModOp>
+</ModOps>

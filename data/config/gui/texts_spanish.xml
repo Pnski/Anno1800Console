@@ -1,0 +1,28 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>8855908</GUID>
+      <Text>Abrir ventana de consola</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--es: Open Console Window-->
+    </Text>
+    <Text>
+      <GUID>8855909</GUID>
+      <Text>Mods de recarga</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--es: Reload Mods-->
+    </Text>
+    <Text>
+      <GUID>1600000047</GUID>
+      <Text>Punto de referencia: ON</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--es: Benchmark: ON-->
+    </Text>
+    <Text>
+      <GUID>1600000048</GUID>
+      <Text>Punto de referencia: OFF</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--es: Benchmark: OFF-->
+    </Text>
+  </ModOp>
+</ModOps>

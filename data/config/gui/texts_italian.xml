@@ -1,0 +1,28 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>8855908</GUID>
+      <Text>Apri la finestra della console</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--it: Open Console Window-->
+    </Text>
+    <Text>
+      <GUID>8855909</GUID>
+      <Text>Mod di ricarica</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--it: Reload Mods-->
+    </Text>
+    <Text>
+      <GUID>1600000047</GUID>
+      <Text>Parametro di riferimento: ON</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--it: Benchmark: ON-->
+    </Text>
+    <Text>
+      <GUID>1600000048</GUID>
+      <Text>Parametro di riferimento: OFF</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--it: Benchmark: OFF-->
+    </Text>
+  </ModOp>
+</ModOps>

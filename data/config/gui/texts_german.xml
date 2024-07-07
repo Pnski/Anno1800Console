@@ -1,0 +1,28 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>8855908</GUID>
+      <Text>Konsolenfenster öffnen</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--de: Open Console Window-->
+    </Text>
+    <Text>
+      <GUID>8855909</GUID>
+      <Text>Mods neu laden</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--de: Reload Mods-->
+    </Text>
+    <Text>
+      <GUID>1600000047</GUID>
+      <Text>Benchmark: EIN</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--de: Benchmark: ON-->
+    </Text>
+    <Text>
+      <GUID>1600000048</GUID>
+      <Text>Benchmark: AUS</Text>
+      <!--MachineTranslated by Nyk-->
+      <!--de: Benchmark: OFF-->
+    </Text>
+  </ModOp>
+</ModOps>
